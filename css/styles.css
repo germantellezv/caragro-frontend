@@ -1,0 +1,43 @@
+.header {
+    background-color: #1b2127;
+    color: white;
+    display: flex;
+    height: 70px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header ol {
+    display: flex;
+    height: inherit;
+}
+
+.header ol ul {
+    height: inherit;
+
+}
+
+ul {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 5px 5px;
+}
+
+
+
+
+.header a {
+    color: white;
+    text-decoration: none;
+    height: inherit;
+    display: flex;
+    align-items: center;
+    padding: 0 10px;
+}
+
+#logo {
+    object-fit: cover;
+}
+
+.menu {
+    height: inherit;
+}
