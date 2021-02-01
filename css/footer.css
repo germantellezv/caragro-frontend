@@ -1,0 +1,23 @@
+body{
+  margin: 0;
+}
+
+footer {
+  border: 1px solid gray;
+  text-align: center;
+}
+
+.footer-title {
+  font-weight: 600;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.footer-column {
+  padding: 10px;
+}
